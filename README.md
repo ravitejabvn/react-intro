@@ -8,7 +8,7 @@ for running use
 yarn start or node start
 
 
-Sample android home screen image and that image properties contains in XML file
+Sample android home screen image and that image properties contains in XML file,
 displays list of properties as a tree structure by using react
 
 Actions : 
